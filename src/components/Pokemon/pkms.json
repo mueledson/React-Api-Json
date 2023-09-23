@@ -1,0 +1,10 @@
+{
+    "pokemon":[
+        {"id": 1, "Nome": "Bulbasaur"  , "Tipo1": "Grama", "Tipo2": "Veneno"},
+        {"id": 2,"Nome": "Ivysaur"     , "Tipo1": "Grama", "Tipo2": "Veneno"},
+        {"id": 3, "Nome": "Venosaur"   , "Tipo1": "Grama", "Tipo2": "Veneno"},
+        {"id": 4, "Nome": "Charmander" , "Tipo1": "Fogo" , "Tipo2": "Fogo"  },
+        {"id": 5, "Nome": "Charmeleon" , "Tipo1": "Fogo" , "Tipo2": "Fogo"  },
+        {"id": 6, "Nome": "Charizard"  , "Tipo1": "Fogo" , "Tipo2": "Voador"}
+    ]
+}

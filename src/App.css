@@ -1,0 +1,43 @@
+body{
+  background-color: #242424;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: #FFF;
+}
+
+form{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+button, input{
+  width: 1000px;
+  border-radius: 5px;
+  background-color: #FFF;
+  cursor: pointer;
+  border: 0;
+  color: #1A1A1A;
+  margin-bottom: 10px;
+  transition: all .5s;
+}
+input{
+  outline: 0;
+}
+
+button:hover{
+  opacity: .7;
+  transition: all .5s;
+}
+
+table{ 
+  margin-top: 20px;
+  width: 1000px;
+  border-radius: 10px;
+}

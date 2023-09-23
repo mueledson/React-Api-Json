@@ -1,0 +1,43 @@
+body{
+    background-color: #242424;
+}
+
+.container{ color: #FFF; }
+
+form{
+    display: flex;
+}
+input{
+    width: 150%;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #FFF;
+    cursor: pointer;
+    border: 0;
+    color: #1A1A1A;
+    margin-bottom: 10px;
+    transition: all .5s;
+    outline: 0;
+}
+
+button{
+    width: 500px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #FFF;
+    cursor: pointer;
+    border: 0;
+    color: #1A1A1A;
+    margin-bottom: 10px;
+    transition: all .5s;
+}
+button:hover{
+    opacity: .7;
+    transition: all .5s;
+}
+
+.table{ 
+    width: 150%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
